@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 182, 193);
+}
+.titulo-principal {
+    font-family: Apple Chancery, cursive;
+}
+
+.paragrafo-principal{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.imagem-principal{
+    width: 500px;
+    height: 500px;
+    text-align: start;
+}
