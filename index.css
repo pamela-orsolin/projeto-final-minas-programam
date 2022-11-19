@@ -1,6 +1,18 @@
 body {
     background-color: rgb(255, 182, 193);
 }
+
+
+.seção1{
+    padding: 50px;
+    background-color: #FFFF;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+
 .titulo-principal {
     font-family: Apple Chancery, cursive;
     color: rgb(255, 182, 193);
@@ -12,7 +24,7 @@ body {
 .paragrafo-principal{
     font-family: "Times New Roman", Times, serif;
     color:rgb(255, 182, 193);
-    
+    font-size: 20px;
 }
 
 .imagem-principal{
@@ -21,12 +33,6 @@ body {
     text-align: start;
    
 }       
-
-.seção1{
-    padding: 50px;
-    background-color: #FFFF
-    
-}
 
 
 
@@ -44,10 +50,18 @@ body {
 .paragrafo1{
     color: #FFFF;
     font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
 }
 
 
 
+
+.seção2{
+    padding: 3%;
+    margin-left: 50px;
+    background-color:rgb(240, 170, 180); 
+    margin-right: 50px;
+}
 
 
 .titulo2{
@@ -63,6 +77,7 @@ body {
 .paragrafo2{
     color: rgb(255, 182, 193);
     font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
 }
 
 .lista1{
@@ -75,8 +90,11 @@ body {
 
 .seção3{
     
-    background-color: #FFFF
-    
+    background-color: #FFFF;
+    padding-top: 1px;
+    padding: 3%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
@@ -91,12 +109,50 @@ body {
 .imagem3{
     height: 400px;
     width: 300px;
-   
+    
 }
 
 .paragrafo3{
     color: #FFFF;
     font-family: "Times New Roman", Times, serif;
-   
+    font-size: 20px;
     
 }
+
+
+.seção4{
+    padding-top: 1px;
+    padding: 3%;
+    margin-left: 50px;
+    background-color:rgb(240, 170, 180); 
+    margin-right: 50px;
+    
+}
+
+.seção5{
+   
+    background-color: #FFFF;
+    padding-top: 1px;
+     padding: 3%;
+    margin-left: 50px;
+     margin-right: 50px;
+     
+}
+
+.titulo4{
+    color: rgb(255, 182, 193);
+    font-family: Apple Chancery, cursive;
+    font-size: xx-large;
+}
+
+.imagem4{
+    width: 550px;
+    height:350px;
+}
+
+.paragrafo4{
+    color: rgb(255, 182, 193);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
