@@ -3,14 +3,100 @@ body {
 }
 .titulo-principal {
     font-family: Apple Chancery, cursive;
+    color: rgb(255, 182, 193);
+    font-size: xx-large;
+    
+
 }
 
 .paragrafo-principal{
     font-family: "Times New Roman", Times, serif;
+    color:rgb(255, 182, 193);
+    
 }
 
 .imagem-principal{
     width: 500px;
     height: 500px;
     text-align: start;
+   
+}       
+
+.seção1{
+    padding: 50px;
+    background-color: #FFFF
+    
+}
+
+
+
+.titulo1{
+    color: #FFFF;
+    font-family: Apple Chancery, cursive;
+    font-size: xx-large;
+    
+}
+
+.imagem1{
+    width: 300px;
+    height:350px;
+}
+.paragrafo1{
+    color: #FFFF;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+
+.titulo2{
+    color: rgb(255, 182, 193);
+    font-family: Apple Chancery, cursive;
+    font-size: xx-large;
+    
+}
+
+.imagem2{
+    
+}
+.paragrafo2{
+    color: rgb(255, 182, 193);
+    font-family: "Times New Roman", Times, serif;
+}
+
+.lista1{
+    color: rgb(255, 182, 193);
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+.seção3{
+    
+    background-color: #FFFF
+    
+}
+
+
+
+.titulo3{
+    color: #FFFF;
+    font-family: Apple Chancery, cursive;
+    font-size: xx-large;
+    
+}
+
+.imagem3{
+    height: 400px;
+    width: 300px;
+   
+}
+
+.paragrafo3{
+    color: #FFFF;
+    font-family: "Times New Roman", Times, serif;
+   
+    
 }
