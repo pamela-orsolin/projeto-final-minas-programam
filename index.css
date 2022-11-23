@@ -68,7 +68,8 @@ li {
     font-family: Apple Chancery, cursive;
     color: rgb(255, 182, 193);
     font-size: xx-large;
-    align-items:center;
+    display:flex;
+    justify-content: center;
   
 }
 
@@ -76,14 +77,19 @@ li {
     font-family: "Times New Roman", Times, serif;
     color:rgb(255, 182, 193);
     font-size: 20px;
+        display:flex;
+    justify-content: center;
     
 }
 
 .imagem-principal{
     width: 500px;
     height: 500px;
-    text-align: center;
-   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+
 }       
 
 
@@ -269,8 +275,8 @@ li {
 }
 
 .imagem5{
-    width: 400px;
-    height:350px;
+    width: 350px;
+    height:300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -345,8 +351,8 @@ fieldset.grupo .campo {
         margin-top: 0%;
         justify-content:center;
         margin-right: 50px;
-        padding-top: 120px;
-        padding-bottom: 120px;
+        padding-top: 75px;
+        padding-bottom: 90px;
       
     
 }
@@ -358,5 +364,16 @@ fieldset.grupo .campo {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10%;
+
+}
+
+.botao{
+    margin: 1px;
+    position:relative;
+    top: 90%;
+    left: 40%;
+    color: rgb(240, 170, 180);
+    background: #FFFF;
+    border-color:rgb(240, 170, 180) ;
 
 }
